@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=lucaspinheiroo&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando Autonomo<br/> Eu sou desenvolvedor C#</p>
+<p>Trabalhador Autonomo<br/> Eu sou desenvolvedor C#, estudo Javascript e Python. Tester QA</p>
